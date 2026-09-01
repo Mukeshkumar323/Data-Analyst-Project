@@ -1,1 +1,76 @@
+# LinkedIn Job Trend Analysis
 
+## 📊 Project Overview
+
+The LinkedIn Job Trend Analysis project is an interactive Power BI dashboard
+designed to analyze job-market trends and opportunities.
+
+The dashboard provides insights into salaries, job roles, cities, companies,
+skills, experience levels, and work types.
+
+## 🎯 Objectives
+
+- Analyze the total number of jobs
+- Analyze average and highest salaries
+- Identify cities with more job opportunities
+- Analyze job opportunities by role
+- Identify popular skills
+- Compare companies based on job openings
+- Analyze jobs by experience level
+- Analyze different work types
+
+## 🛠️ Tools Used
+
+- Power BI
+- Power Query
+- DAX
+- Excel / CSV
+- Data Visualization
+
+## 📈 Dashboard Features
+
+- Total Jobs
+- Total Salary
+- Average Salary
+- Number of Companies
+- Highest Salary
+- Salary by Role
+- Jobs by City
+- Jobs by Company
+- Jobs by Skill
+- Average Salary by Experience Level
+- Jobs by Work Type
+- Geographical Job Distribution
+
+## 🔍 Interactive Filters
+
+- Job ID
+- City
+- Company
+- Job Title
+- Role
+- Skill
+- Work Type
+
+## 📌 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Analysis
+- DAX
+- Power BI
+- Data Visualization
+- Business Intelligence
+
+## 📄 Project Report
+
+The detailed project report is available in:
+
+`LinkedIn_Job_Trend_Analysis_Report.pdf`
+
+## 💡 Conclusion
+
+The dashboard helps understand current job-market patterns by analyzing
+salary, location, companies, skills, roles, experience levels, and work types.
+It demonstrates practical Power BI and data analytics skills for business
+decision-making.
