@@ -1,0 +1,501 @@
+Job ID,Job Title,Company,City,Role,Experience Level,Work Type,Posted Date,Skill,Salary_LPA
+J0001,Data Analyst,Accenture,Pune,Data Analyst,Entry Level,Hybrid,23/06/2026,Python,7.3
+J0002,Data Engineer,Infosys,Noida,Data Engineer,Entry Level,Full-time,10/05/2026,Python,6.7
+J0003,Data Engineer,Accenture,Noida,Data Engineer,Junior,Full-time,11/08/2026,SQL,5.8
+J0004,Business Analyst,Capgemini,Delhi,Business Analyst,Entry Level,Remote,28/03/2026,Tableau,4.7
+J0005,BI Analyst,EY,Delhi,BI Analyst,Entry Level,Full-time,12/01/2026,Power BI,7.2
+J0006,Data Engineer,TCS,Noida,Data Engineer,Junior,Hybrid,08/06/2026,Python,9.3
+J0007,Data Scientist,Microsoft,Mumbai,Data Scientist,Entry Level,Hybrid,17/07/2026,Statistics,5.5
+J0008,Data Analyst,Deloitte,Chennai,Data Analyst,Entry Level,Hybrid,04/04/2026,SQL,5
+J0009,Data Scientist,Microsoft,Pune,Data Scientist,Senior Level,Hybrid,05/06/2026,SQL,15.3
+J0010,Data Engineer,IBM,Hyderabad,Data Engineer,Junior,Remote,13/06/2026,SQL,8.6
+J0011,Business Analyst,Accenture,Bengaluru,Business Analyst,Mid Level,Hybrid,13/04/2026,Power BI,9.9
+J0012,Business Analyst,Accenture,Delhi,Business Analyst,Mid Level,Full-time,14/06/2026,Jira,10.6
+J0013,Data Scientist,Microsoft,Mumbai,Data Scientist,Junior,Full-time,30/05/2026,SQL,7.5
+J0014,Data Engineer,Accenture,Delhi,Data Engineer,Senior Level,Full-time,07/05/2026,ETL,13.2
+J0015,Data Analyst,Amazon,Hyderabad,Data Analyst,Entry Level,Hybrid,02/06/2026,Python,4.6
+J0016,BI Analyst,HCLTech,Gurugram,BI Analyst,Entry Level,Full-time,03/01/2026,DAX,7
+J0017,Data Analyst,Genpact,Pune,Data Analyst,Junior,Full-time,22/04/2026,Tableau,6.4
+J0018,Data Analyst,HCLTech,Hyderabad,Data Analyst,Senior Level,Remote,18/03/2026,Excel,16.2
+J0019,Data Engineer,Wipro,Mumbai,Data Engineer,Junior,Full-time,19/07/2026,Spark,9.5
+J0020,Data Analyst,IBM,Delhi,Data Analyst,Entry Level,Remote,13/08/2026,Tableau,8.2
+J0021,Data Scientist,Accenture,Bengaluru,Data Scientist,Mid Level,Remote,22/01/2026,SQL,11.7
+J0022,Data Analyst,Wipro,Hyderabad,Data Analyst,Mid Level,Remote,12/02/2026,Tableau,9.9
+J0023,Data Engineer,KPMG,Mumbai,Data Engineer,Junior,Hybrid,21/02/2026,ETL,8.7
+J0024,BI Analyst,KPMG,Gurugram,BI Analyst,Junior,Full-time,27/02/2026,Excel,6.1
+J0025,Data Analyst,Tech Mahindra,Mumbai,Data Analyst,Entry Level,Full-time,11/06/2026,Tableau,4.5
+J0026,Data Analyst,TCS,Delhi,Data Analyst,Junior,Full-time,05/05/2026,Python,6.7
+J0027,Business Analyst,Accenture,Gurugram,Business Analyst,Mid Level,Hybrid,18/02/2026,Jira,9.2
+J0028,BI Analyst,Deloitte,Noida,BI Analyst,Junior,Hybrid,22/06/2026,Excel,8.4
+J0029,Data Analyst,Microsoft,Noida,Data Analyst,Entry Level,Remote,05/03/2026,Python,5.1
+J0030,Data Engineer,Deloitte,Hyderabad,Data Engineer,Entry Level,Full-time,12/08/2026,ETL,8
+J0031,BI Analyst,Infosys,Chennai,BI Analyst,Mid Level,Full-time,04/01/2026,DAX,12.7
+J0032,Business Analyst,IBM,Noida,Business Analyst,Junior,Remote,20/08/2026,SQL,6
+J0033,BI Analyst,Capgemini,Noida,BI Analyst,Senior Level,Hybrid,15/03/2026,Power BI,14.5
+J0034,Data Engineer,Accenture,Hyderabad,Data Engineer,Entry Level,Remote,29/05/2026,ETL,7.2
+J0035,Data Analyst,Infosys,Bengaluru,Data Analyst,Junior,Full-time,07/08/2026,Excel,7.9
+J0036,Data Analyst,EY,Chennai,Data Analyst,Entry Level,Full-time,22/06/2026,Tableau,7.7
+J0037,BI Analyst,Tech Mahindra,Mumbai,BI Analyst,Junior,Hybrid,18/04/2026,Power BI,8.4
+J0038,Data Engineer,KPMG,Delhi,Data Engineer,Entry Level,Hybrid,22/03/2026,Spark,5.3
+J0039,BI Analyst,IBM,Pune,BI Analyst,Entry Level,Hybrid,19/01/2026,SQL,4.3
+J0040,Data Engineer,TCS,Chennai,Data Engineer,Junior,Full-time,03/02/2026,Spark,9.5
+J0041,Data Analyst,Capgemini,Delhi,Data Analyst,Entry Level,Hybrid,30/06/2026,SQL,5.5
+J0042,Data Engineer,KPMG,Pune,Data Engineer,Mid Level,Remote,04/02/2026,Python,9.9
+J0043,Data Analyst,Capgemini,Hyderabad,Data Analyst,Entry Level,Full-time,29/03/2026,Tableau,5.1
+J0044,Data Scientist,Capgemini,Gurugram,Data Scientist,Senior Level,Hybrid,24/01/2026,Statistics,15.3
+J0045,Data Scientist,Cognizant,Bengaluru,Data Scientist,Mid Level,Hybrid,09/03/2026,Python,9.4
+J0046,BI Analyst,HCLTech,Noida,BI Analyst,Entry Level,Full-time,15/08/2026,DAX,7.1
+J0047,Business Analyst,EY,Bengaluru,Business Analyst,Junior,Full-time,21/04/2026,Jira,6.3
+J0048,Data Scientist,KPMG,Bengaluru,Data Scientist,Junior,Hybrid,20/06/2026,Machine Learning,6.2
+J0049,Data Engineer,KPMG,Hyderabad,Data Engineer,Senior Level,Remote,24/07/2026,ETL,16
+J0050,BI Analyst,Microsoft,Hyderabad,BI Analyst,Senior Level,Hybrid,16/04/2026,Power BI,16
+J0051,Business Analyst,Genpact,Hyderabad,Business Analyst,Mid Level,Full-time,10/01/2026,Power BI,12.2
+J0052,Business Analyst,Cognizant,Gurugram,Business Analyst,Entry Level,Hybrid,28/02/2026,SQL,5.2
+J0053,Business Analyst,Capgemini,Delhi,Business Analyst,Mid Level,Remote,13/03/2026,Tableau,10.2
+J0054,Data Engineer,Infosys,Delhi,Data Engineer,Entry Level,Remote,15/02/2026,ETL,6.6
+J0055,Data Scientist,Tech Mahindra,Chennai,Data Scientist,Junior,Hybrid,22/03/2026,Python,7.5
+J0056,Data Engineer,KPMG,Noida,Data Engineer,Junior,Full-time,01/07/2026,Python,7.5
+J0057,Data Engineer,Cognizant,Mumbai,Data Engineer,Junior,Remote,26/03/2026,Spark,8.3
+J0058,Data Analyst,Amazon,Pune,Data Analyst,Junior,Full-time,17/03/2026,Excel,8
+J0059,Business Analyst,Amazon,Noida,Business Analyst,Mid Level,Full-time,26/05/2026,Tableau,10
+J0060,Data Engineer,Capgemini,Pune,Data Engineer,Entry Level,Hybrid,05/06/2026,Python,6.9
+J0061,BI Analyst,Amazon,Gurugram,BI Analyst,Entry Level,Full-time,19/08/2026,Tableau,8.1
+J0062,Business Analyst,HCLTech,Pune,Business Analyst,Mid Level,Hybrid,24/01/2026,Excel,12.1
+J0063,Business Analyst,Genpact,Mumbai,Business Analyst,Entry Level,Full-time,04/03/2026,Power BI,8.2
+J0064,Data Engineer,Deloitte,Gurugram,Data Engineer,Mid Level,Full-time,03/07/2026,Python,11.6
+J0065,BI Analyst,Wipro,Mumbai,BI Analyst,Mid Level,Full-time,12/07/2026,Tableau,12.2
+J0066,Data Analyst,Wipro,Mumbai,Data Analyst,Mid Level,Hybrid,29/04/2026,Power BI,9
+J0067,Business Analyst,Wipro,Gurugram,Business Analyst,Mid Level,Hybrid,24/05/2026,Excel,11.2
+J0068,BI Analyst,EY,Noida,BI Analyst,Senior Level,Full-time,10/02/2026,DAX,15.8
+J0069,BI Analyst,Genpact,Pune,BI Analyst,Entry Level,Hybrid,16/07/2026,Tableau,7.4
+J0070,BI Analyst,IBM,Pune,BI Analyst,Entry Level,Full-time,11/03/2026,SQL,5.6
+J0071,Data Engineer,Wipro,Hyderabad,Data Engineer,Entry Level,Hybrid,30/06/2026,Python,5.2
+J0072,BI Analyst,HCLTech,Delhi,BI Analyst,Junior,Full-time,02/08/2026,Tableau,7.5
+J0073,Data Engineer,IBM,Noida,Data Engineer,Entry Level,Full-time,12/07/2026,Python,5.9
+J0074,BI Analyst,IBM,Mumbai,BI Analyst,Entry Level,Full-time,08/01/2026,DAX,5.9
+J0075,BI Analyst,KPMG,Gurugram,BI Analyst,Entry Level,Hybrid,07/01/2026,SQL,7.9
+J0076,Data Engineer,TCS,Bengaluru,Data Engineer,Junior,Full-time,29/04/2026,Spark,6.5
+J0077,Data Scientist,Accenture,Delhi,Data Scientist,Junior,Full-time,14/08/2026,Pandas,7.3
+J0078,BI Analyst,IBM,Chennai,BI Analyst,Entry Level,Full-time,31/03/2026,Excel,5.2
+J0079,Data Analyst,Accenture,Bengaluru,Data Analyst,Entry Level,Full-time,09/02/2026,Python,5.3
+J0080,BI Analyst,IBM,Mumbai,BI Analyst,Mid Level,Hybrid,12/02/2026,Power BI,11.2
+J0081,Data Analyst,TCS,Pune,Data Analyst,Junior,Remote,28/05/2026,SQL,8.5
+J0082,BI Analyst,TCS,Mumbai,BI Analyst,Junior,Hybrid,04/03/2026,Tableau,6.2
+J0083,Data Scientist,Genpact,Chennai,Data Scientist,Senior Level,Hybrid,30/03/2026,Statistics,14.9
+J0084,Data Scientist,Infosys,Delhi,Data Scientist,Mid Level,Hybrid,28/01/2026,Python,10.5
+J0085,Data Scientist,Deloitte,Hyderabad,Data Scientist,Entry Level,Full-time,16/06/2026,Pandas,5.4
+J0086,Data Engineer,Deloitte,Gurugram,Data Engineer,Mid Level,Full-time,24/03/2026,ETL,12.2
+J0087,Data Analyst,Accenture,Gurugram,Data Analyst,Mid Level,Full-time,21/06/2026,Excel,10.3
+J0088,Data Analyst,Wipro,Delhi,Data Analyst,Junior,Full-time,08/03/2026,Power BI,7.2
+J0089,Data Engineer,HCLTech,Bengaluru,Data Engineer,Senior Level,Full-time,04/07/2026,AWS,14.4
+J0090,Data Engineer,Amazon,Gurugram,Data Engineer,Mid Level,Full-time,05/01/2026,SQL,9.2
+J0091,Business Analyst,Capgemini,Mumbai,Business Analyst,Mid Level,Full-time,22/05/2026,Tableau,10.9
+J0092,BI Analyst,Cognizant,Delhi,BI Analyst,Mid Level,Full-time,06/03/2026,DAX,9.7
+J0093,Business Analyst,Microsoft,Chennai,Business Analyst,Junior,Hybrid,17/02/2026,Power BI,6.6
+J0094,BI Analyst,TCS,Pune,BI Analyst,Mid Level,Full-time,03/04/2026,Excel,9.5
+J0095,Data Analyst,Capgemini,Hyderabad,Data Analyst,Entry Level,Full-time,16/03/2026,Tableau,7.1
+J0096,Business Analyst,EY,Chennai,Business Analyst,Entry Level,Full-time,03/05/2026,Tableau,6.1
+J0097,Business Analyst,EY,Pune,Business Analyst,Junior,Hybrid,13/04/2026,Excel,7.8
+J0098,Data Engineer,Wipro,Hyderabad,Data Engineer,Mid Level,Remote,22/01/2026,Python,12.8
+J0099,Data Analyst,Tech Mahindra,Noida,Data Analyst,Junior,Hybrid,18/07/2026,Tableau,7.9
+J0100,BI Analyst,EY,Pune,BI Analyst,Junior,Full-time,26/05/2026,Tableau,8.3
+J0101,Data Engineer,Amazon,Mumbai,Data Engineer,Entry Level,Hybrid,10/02/2026,Python,5.3
+J0102,Data Engineer,Infosys,Hyderabad,Data Engineer,Junior,Hybrid,01/05/2026,Python,7
+J0103,Business Analyst,Microsoft,Pune,Business Analyst,Mid Level,Full-time,01/03/2026,Power BI,12.5
+J0104,Data Engineer,TCS,Noida,Data Engineer,Junior,Hybrid,10/03/2026,SQL,9.1
+J0105,Data Analyst,Genpact,Hyderabad,Data Analyst,Entry Level,Hybrid,26/05/2026,Python,8
+J0106,BI Analyst,Microsoft,Gurugram,BI Analyst,Entry Level,Full-time,11/03/2026,Power BI,6.3
+J0107,BI Analyst,Tech Mahindra,Chennai,BI Analyst,Entry Level,Full-time,24/03/2026,Tableau,6.7
+J0108,Data Analyst,Amazon,Mumbai,Data Analyst,Mid Level,Full-time,06/01/2026,Python,12.8
+J0109,Data Scientist,Genpact,Bengaluru,Data Scientist,Mid Level,Full-time,16/06/2026,Statistics,10.6
+J0110,Data Scientist,Amazon,Noida,Data Scientist,Mid Level,Remote,01/05/2026,SQL,10.2
+J0111,Data Scientist,EY,Chennai,Data Scientist,Entry Level,Full-time,07/05/2026,Machine Learning,5.5
+J0112,BI Analyst,IBM,Bengaluru,BI Analyst,Entry Level,Full-time,30/01/2026,DAX,8.2
+J0113,BI Analyst,Amazon,Bengaluru,BI Analyst,Mid Level,Full-time,14/01/2026,DAX,9.6
+J0114,Data Scientist,Amazon,Gurugram,Data Scientist,Junior,Full-time,10/03/2026,Statistics,8
+J0115,Data Scientist,TCS,Gurugram,Data Scientist,Entry Level,Hybrid,24/07/2026,Pandas,5.3
+J0116,Business Analyst,HCLTech,Bengaluru,Business Analyst,Junior,Full-time,04/08/2026,Power BI,9.5
+J0117,BI Analyst,IBM,Hyderabad,BI Analyst,Senior Level,Full-time,30/06/2026,Power BI,13.9
+J0118,BI Analyst,IBM,Mumbai,BI Analyst,Junior,Full-time,03/06/2026,Tableau,7.8
+J0119,Business Analyst,Genpact,Pune,Business Analyst,Mid Level,Full-time,21/07/2026,Excel,10.8
+J0120,Data Analyst,EY,Pune,Data Analyst,Junior,Remote,06/05/2026,Excel,9.3
+J0121,BI Analyst,Cognizant,Gurugram,BI Analyst,Entry Level,Hybrid,07/04/2026,DAX,6.1
+J0122,Data Scientist,Tech Mahindra,Mumbai,Data Scientist,Junior,Remote,16/04/2026,SQL,6
+J0123,BI Analyst,Amazon,Noida,BI Analyst,Mid Level,Hybrid,08/02/2026,Tableau,10.8
+J0124,Data Analyst,EY,Delhi,Data Analyst,Entry Level,Hybrid,26/01/2026,SQL,6.4
+J0125,BI Analyst,Deloitte,Hyderabad,BI Analyst,Mid Level,Remote,20/01/2026,Power BI,10.7
+J0126,Data Scientist,Amazon,Noida,Data Scientist,Entry Level,Full-time,22/06/2026,Machine Learning,7.7
+J0127,BI Analyst,EY,Gurugram,BI Analyst,Junior,Hybrid,02/03/2026,Excel,8.3
+J0128,Data Scientist,Deloitte,Chennai,Data Scientist,Senior Level,Hybrid,30/06/2026,SQL,16.3
+J0129,BI Analyst,KPMG,Pune,BI Analyst,Entry Level,Full-time,15/01/2026,SQL,5.5
+J0130,Data Scientist,Accenture,Hyderabad,Data Scientist,Junior,Full-time,22/07/2026,Pandas,6.5
+J0131,Business Analyst,Tech Mahindra,Noida,Business Analyst,Mid Level,Full-time,30/05/2026,Excel,9.4
+J0132,BI Analyst,Capgemini,Gurugram,BI Analyst,Mid Level,Remote,30/04/2026,Excel,12.4
+J0133,Data Engineer,IBM,Chennai,Data Engineer,Senior Level,Remote,18/03/2026,SQL,15.4
+J0134,BI Analyst,EY,Gurugram,BI Analyst,Entry Level,Remote,07/08/2026,Excel,6.2
+J0135,Business Analyst,Tech Mahindra,Delhi,Business Analyst,Entry Level,Hybrid,06/01/2026,Tableau,8.2
+J0136,BI Analyst,Tech Mahindra,Bengaluru,BI Analyst,Mid Level,Hybrid,13/01/2026,Excel,12.4
+J0137,BI Analyst,Tech Mahindra,Mumbai,BI Analyst,Mid Level,Full-time,18/02/2026,Excel,11.3
+J0138,Business Analyst,Capgemini,Bengaluru,Business Analyst,Mid Level,Full-time,04/04/2026,Excel,11.7
+J0139,Data Analyst,Microsoft,Delhi,Data Analyst,Junior,Full-time,21/07/2026,Excel,8
+J0140,Data Scientist,EY,Pune,Data Scientist,Entry Level,Remote,04/05/2026,Statistics,8.2
+J0141,Data Scientist,IBM,Chennai,Data Scientist,Senior Level,Full-time,27/02/2026,Machine Learning,16.2
+J0142,BI Analyst,TCS,Delhi,BI Analyst,Mid Level,Full-time,18/05/2026,DAX,9.3
+J0143,Data Scientist,EY,Noida,Data Scientist,Junior,Full-time,22/06/2026,Machine Learning,6.7
+J0144,Data Analyst,KPMG,Delhi,Data Analyst,Junior,Hybrid,12/06/2026,Tableau,9.1
+J0145,Data Scientist,Wipro,Chennai,Data Scientist,Entry Level,Full-time,07/05/2026,Pandas,4.8
+J0146,Business Analyst,Deloitte,Hyderabad,Business Analyst,Junior,Hybrid,10/07/2026,Jira,8.6
+J0147,Data Engineer,KPMG,Hyderabad,Data Engineer,Junior,Full-time,06/05/2026,ETL,8.3
+J0148,Data Scientist,Accenture,Delhi,Data Scientist,Junior,Remote,07/08/2026,Python,7.3
+J0149,Data Scientist,Infosys,Delhi,Data Scientist,Junior,Full-time,01/02/2026,Statistics,9.6
+J0150,BI Analyst,Amazon,Mumbai,BI Analyst,Junior,Remote,13/01/2026,Power BI,8.9
+J0151,Business Analyst,TCS,Mumbai,Business Analyst,Mid Level,Full-time,31/05/2026,SQL,9.7
+J0152,Business Analyst,Genpact,Hyderabad,Business Analyst,Senior Level,Full-time,08/08/2026,Power BI,16.7
+J0153,Business Analyst,Genpact,Pune,Business Analyst,Entry Level,Hybrid,07/01/2026,Jira,4.8
+J0154,Data Scientist,Infosys,Delhi,Data Scientist,Entry Level,Full-time,09/07/2026,SQL,6
+J0155,Data Analyst,IBM,Gurugram,Data Analyst,Mid Level,Full-time,28/01/2026,Python,10.6
+J0156,Business Analyst,Microsoft,Bengaluru,Business Analyst,Mid Level,Remote,14/05/2026,Jira,10
+J0157,Data Analyst,EY,Gurugram,Data Analyst,Junior,Hybrid,06/05/2026,Python,8.6
+J0158,BI Analyst,Cognizant,Chennai,BI Analyst,Junior,Full-time,12/03/2026,Power BI,8.3
+J0159,Data Engineer,Deloitte,Delhi,Data Engineer,Senior Level,Full-time,27/04/2026,Spark,14.8
+J0160,BI Analyst,EY,Chennai,BI Analyst,Mid Level,Remote,22/05/2026,Power BI,11.7
+J0161,Business Analyst,KPMG,Gurugram,Business Analyst,Entry Level,Full-time,27/04/2026,Tableau,5.9
+J0162,Data Analyst,Cognizant,Noida,Data Analyst,Mid Level,Full-time,09/02/2026,Excel,11.5
+J0163,BI Analyst,EY,Chennai,BI Analyst,Entry Level,Full-time,10/07/2026,Power BI,7.3
+J0164,Business Analyst,Tech Mahindra,Bengaluru,Business Analyst,Senior Level,Full-time,21/06/2026,Jira,13.3
+J0165,Data Scientist,Capgemini,Bengaluru,Data Scientist,Junior,Full-time,28/05/2026,Pandas,7.8
+J0166,Business Analyst,EY,Mumbai,Business Analyst,Entry Level,Hybrid,05/04/2026,Tableau,4.8
+J0167,Data Scientist,Genpact,Mumbai,Data Scientist,Junior,Full-time,16/07/2026,Statistics,9.1
+J0168,Data Engineer,Tech Mahindra,Bengaluru,Data Engineer,Senior Level,Hybrid,10/03/2026,Spark,12.9
+J0169,Data Scientist,Cognizant,Delhi,Data Scientist,Entry Level,Remote,25/05/2026,Machine Learning,6.9
+J0170,Data Analyst,TCS,Bengaluru,Data Analyst,Mid Level,Full-time,18/04/2026,SQL,10.6
+J0171,Business Analyst,Microsoft,Pune,Business Analyst,Entry Level,Remote,02/06/2026,Power BI,4.6
+J0172,Data Analyst,Genpact,Hyderabad,Data Analyst,Junior,Hybrid,11/03/2026,SQL,7.6
+J0173,BI Analyst,Deloitte,Gurugram,BI Analyst,Entry Level,Hybrid,30/01/2026,Tableau,5.7
+J0174,Data Analyst,HCLTech,Gurugram,Data Analyst,Mid Level,Full-time,12/04/2026,Excel,12.7
+J0175,Data Analyst,Capgemini,Mumbai,Data Analyst,Senior Level,Hybrid,15/07/2026,Python,13.8
+J0176,Data Scientist,IBM,Bengaluru,Data Scientist,Mid Level,Full-time,08/04/2026,Python,10.9
+J0177,Business Analyst,TCS,Delhi,Business Analyst,Junior,Hybrid,22/04/2026,Jira,5.9
+J0178,Data Analyst,Tech Mahindra,Noida,Data Analyst,Junior,Hybrid,16/03/2026,Excel,6.3
+J0179,Data Analyst,Genpact,Hyderabad,Data Analyst,Senior Level,Full-time,26/06/2026,Excel,16.5
+J0180,Data Analyst,Accenture,Chennai,Data Analyst,Junior,Full-time,21/01/2026,Power BI,7.4
+J0181,Data Scientist,Cognizant,Mumbai,Data Scientist,Mid Level,Full-time,12/06/2026,Machine Learning,9.3
+J0182,Data Engineer,Cognizant,Delhi,Data Engineer,Mid Level,Hybrid,28/07/2026,SQL,9.4
+J0183,Data Analyst,Accenture,Pune,Data Analyst,Entry Level,Full-time,14/07/2026,SQL,6.9
+J0184,Business Analyst,Genpact,Gurugram,Business Analyst,Junior,Full-time,24/06/2026,Tableau,9.5
+J0185,Data Engineer,EY,Delhi,Data Engineer,Senior Level,Full-time,23/04/2026,Spark,13.1
+J0186,BI Analyst,Tech Mahindra,Pune,BI Analyst,Entry Level,Full-time,21/03/2026,Excel,6.1
+J0187,Data Analyst,EY,Delhi,Data Analyst,Entry Level,Hybrid,07/08/2026,Python,4.7
+J0188,Data Engineer,IBM,Noida,Data Engineer,Junior,Remote,09/07/2026,Spark,9.4
+J0189,BI Analyst,Cognizant,Mumbai,BI Analyst,Junior,Full-time,16/01/2026,DAX,7.6
+J0190,Data Scientist,Infosys,Hyderabad,Data Scientist,Entry Level,Full-time,23/04/2026,Python,6.4
+J0191,Data Engineer,Cognizant,Delhi,Data Engineer,Senior Level,Full-time,18/07/2026,SQL,14.2
+J0192,Data Engineer,TCS,Delhi,Data Engineer,Entry Level,Full-time,09/04/2026,Python,5.4
+J0193,Data Engineer,TCS,Delhi,Data Engineer,Junior,Full-time,31/03/2026,SQL,7
+J0194,BI Analyst,Capgemini,Chennai,BI Analyst,Junior,Hybrid,26/03/2026,SQL,9.1
+J0195,Data Engineer,HCLTech,Noida,Data Engineer,Junior,Full-time,16/02/2026,Python,9.6
+J0196,Data Scientist,Accenture,Mumbai,Data Scientist,Senior Level,Full-time,17/03/2026,Pandas,16.2
+J0197,Data Analyst,Amazon,Bengaluru,Data Analyst,Entry Level,Hybrid,03/02/2026,Tableau,6.7
+J0198,Business Analyst,EY,Hyderabad,Business Analyst,Mid Level,Hybrid,20/08/2026,SQL,9.5
+J0199,BI Analyst,Cognizant,Noida,BI Analyst,Mid Level,Full-time,24/04/2026,Power BI,11.2
+J0200,BI Analyst,Capgemini,Mumbai,BI Analyst,Senior Level,Hybrid,20/08/2026,SQL,16.1
+J0201,Data Scientist,IBM,Gurugram,Data Scientist,Mid Level,Hybrid,09/05/2026,Statistics,10.9
+J0202,Business Analyst,EY,Hyderabad,Business Analyst,Entry Level,Hybrid,12/08/2026,SQL,5.8
+J0203,Data Analyst,Capgemini,Chennai,Data Analyst,Entry Level,Full-time,26/04/2026,Tableau,7.9
+J0204,Business Analyst,KPMG,Chennai,Business Analyst,Entry Level,Full-time,31/03/2026,Tableau,8
+J0205,BI Analyst,HCLTech,Noida,BI Analyst,Junior,Full-time,21/01/2026,Power BI,7.3
+J0206,Data Analyst,EY,Chennai,Data Analyst,Mid Level,Full-time,07/02/2026,Excel,9.4
+J0207,Data Scientist,Genpact,Hyderabad,Data Scientist,Mid Level,Full-time,02/01/2026,Pandas,12.4
+J0208,Data Analyst,EY,Mumbai,Data Analyst,Entry Level,Remote,05/06/2026,Excel,6.4
+J0209,Data Analyst,Capgemini,Mumbai,Data Analyst,Entry Level,Full-time,13/06/2026,Excel,7.5
+J0210,BI Analyst,EY,Chennai,BI Analyst,Senior Level,Full-time,05/01/2026,Power BI,15.3
+J0211,Data Engineer,Capgemini,Hyderabad,Data Engineer,Junior,Hybrid,03/03/2026,SQL,8.1
+J0212,Business Analyst,TCS,Delhi,Business Analyst,Senior Level,Full-time,21/07/2026,Excel,16.8
+J0213,Data Engineer,EY,Noida,Data Engineer,Junior,Hybrid,06/04/2026,Python,6.8
+J0214,Data Analyst,Cognizant,Chennai,Data Analyst,Entry Level,Hybrid,27/01/2026,Excel,7.4
+J0215,Data Scientist,Cognizant,Bengaluru,Data Scientist,Junior,Hybrid,14/02/2026,SQL,9.1
+J0216,BI Analyst,Genpact,Hyderabad,BI Analyst,Entry Level,Hybrid,28/04/2026,Tableau,4.4
+J0217,Business Analyst,KPMG,Mumbai,Business Analyst,Entry Level,Remote,12/05/2026,Excel,5.9
+J0218,Data Engineer,Infosys,Pune,Data Engineer,Mid Level,Full-time,02/04/2026,ETL,12.2
+J0219,Data Analyst,TCS,Pune,Data Analyst,Mid Level,Full-time,13/04/2026,Excel,11.8
+J0220,BI Analyst,IBM,Hyderabad,BI Analyst,Mid Level,Full-time,24/07/2026,Excel,10.9
+J0221,Data Analyst,Deloitte,Chennai,Data Analyst,Junior,Hybrid,20/05/2026,Power BI,7
+J0222,Data Analyst,Amazon,Delhi,Data Analyst,Entry Level,Full-time,03/07/2026,Python,6
+J0223,BI Analyst,Infosys,Gurugram,BI Analyst,Mid Level,Remote,07/06/2026,Excel,12.8
+J0224,Data Scientist,Amazon,Chennai,Data Scientist,Junior,Full-time,25/07/2026,Python,8.8
+J0225,Business Analyst,EY,Hyderabad,Business Analyst,Junior,Hybrid,09/01/2026,Excel,6.3
+J0226,Business Analyst,Deloitte,Delhi,Business Analyst,Senior Level,Full-time,09/02/2026,Power BI,15.5
+J0227,Data Scientist,Genpact,Gurugram,Data Scientist,Entry Level,Full-time,04/04/2026,Machine Learning,5.9
+J0228,Data Scientist,Infosys,Chennai,Data Scientist,Mid Level,Full-time,10/04/2026,SQL,12.5
+J0229,Data Analyst,Microsoft,Pune,Data Analyst,Junior,Remote,15/03/2026,Excel,8.6
+J0230,BI Analyst,Wipro,Chennai,BI Analyst,Mid Level,Full-time,19/08/2026,SQL,11.7
+J0231,Data Analyst,Microsoft,Delhi,Data Analyst,Entry Level,Full-time,17/08/2026,Excel,5.5
+J0232,Business Analyst,HCLTech,Delhi,Business Analyst,Entry Level,Remote,22/07/2026,SQL,4.9
+J0233,BI Analyst,HCLTech,Delhi,BI Analyst,Junior,Full-time,22/05/2026,Power BI,6.3
+J0234,Data Analyst,Deloitte,Pune,Data Analyst,Senior Level,Hybrid,15/05/2026,Python,14.4
+J0235,BI Analyst,Wipro,Chennai,BI Analyst,Senior Level,Hybrid,26/04/2026,DAX,14.7
+J0236,Data Engineer,KPMG,Hyderabad,Data Engineer,Mid Level,Full-time,31/05/2026,AWS,9.5
+J0237,Business Analyst,EY,Bengaluru,Business Analyst,Entry Level,Full-time,12/02/2026,Tableau,4.9
+J0238,Business Analyst,EY,Pune,Business Analyst,Entry Level,Full-time,22/05/2026,Power BI,5.4
+J0239,Data Scientist,HCLTech,Chennai,Data Scientist,Junior,Full-time,29/05/2026,Statistics,6.4
+J0240,Data Engineer,EY,Delhi,Data Engineer,Senior Level,Full-time,10/08/2026,Spark,12.9
+J0241,Data Analyst,Amazon,Pune,Data Analyst,Entry Level,Full-time,08/06/2026,Tableau,6.9
+J0242,BI Analyst,Amazon,Pune,BI Analyst,Senior Level,Full-time,26/07/2026,DAX,16
+J0243,BI Analyst,TCS,Gurugram,BI Analyst,Mid Level,Full-time,17/04/2026,Excel,10.7
+J0244,Business Analyst,Cognizant,Hyderabad,Business Analyst,Mid Level,Full-time,09/08/2026,Power BI,10.2
+J0245,BI Analyst,HCLTech,Delhi,BI Analyst,Junior,Full-time,30/04/2026,SQL,6.3
+J0246,BI Analyst,TCS,Hyderabad,BI Analyst,Entry Level,Remote,10/08/2026,SQL,6.8
+J0247,Business Analyst,KPMG,Delhi,Business Analyst,Junior,Full-time,15/07/2026,SQL,6.4
+J0248,Data Engineer,KPMG,Gurugram,Data Engineer,Entry Level,Full-time,11/04/2026,ETL,6.3
+J0249,Business Analyst,Infosys,Delhi,Business Analyst,Entry Level,Full-time,14/08/2026,SQL,7.7
+J0250,BI Analyst,EY,Bengaluru,BI Analyst,Entry Level,Full-time,09/03/2026,Excel,7.2
+J0251,BI Analyst,Deloitte,Bengaluru,BI Analyst,Entry Level,Full-time,03/04/2026,Excel,6.5
+J0252,Data Analyst,Genpact,Gurugram,Data Analyst,Junior,Hybrid,09/06/2026,Power BI,8.5
+J0253,Data Analyst,Deloitte,Chennai,Data Analyst,Junior,Remote,23/05/2026,SQL,9.6
+J0254,Business Analyst,HCLTech,Noida,Business Analyst,Entry Level,Full-time,02/07/2026,SQL,5.6
+J0255,BI Analyst,Wipro,Gurugram,BI Analyst,Junior,Full-time,25/03/2026,DAX,9.5
+J0256,Data Scientist,Tech Mahindra,Noida,Data Scientist,Mid Level,Full-time,28/03/2026,SQL,10.8
+J0257,Data Engineer,Microsoft,Gurugram,Data Engineer,Junior,Full-time,05/01/2026,Spark,7.3
+J0258,Data Analyst,Genpact,Pune,Data Analyst,Mid Level,Remote,11/06/2026,Power BI,8.9
+J0259,BI Analyst,Microsoft,Mumbai,BI Analyst,Entry Level,Full-time,15/05/2026,Excel,6.8
+J0260,Data Engineer,EY,Hyderabad,Data Engineer,Mid Level,Full-time,29/06/2026,ETL,9.2
+J0261,Data Analyst,Deloitte,Delhi,Data Analyst,Entry Level,Hybrid,16/04/2026,Power BI,6.3
+J0262,Data Engineer,Microsoft,Bengaluru,Data Engineer,Entry Level,Full-time,25/03/2026,ETL,8.3
+J0263,BI Analyst,Cognizant,Noida,BI Analyst,Senior Level,Full-time,17/05/2026,DAX,14.2
+J0264,Data Scientist,Accenture,Gurugram,Data Scientist,Senior Level,Full-time,18/03/2026,Machine Learning,13.7
+J0265,Data Scientist,Microsoft,Mumbai,Data Scientist,Mid Level,Full-time,31/03/2026,Machine Learning,11
+J0266,Data Scientist,Tech Mahindra,Chennai,Data Scientist,Mid Level,Full-time,12/04/2026,Machine Learning,12.1
+J0267,Business Analyst,Capgemini,Bengaluru,Business Analyst,Senior Level,Full-time,24/04/2026,Power BI,15.4
+J0268,BI Analyst,EY,Mumbai,BI Analyst,Junior,Remote,28/06/2026,SQL,6.9
+J0269,Data Analyst,Accenture,Mumbai,Data Analyst,Entry Level,Remote,27/02/2026,Tableau,6.9
+J0270,Data Analyst,Cognizant,Noida,Data Analyst,Mid Level,Full-time,17/07/2026,Python,9.3
+J0271,Data Engineer,Amazon,Noida,Data Engineer,Senior Level,Remote,03/05/2026,SQL,15.4
+J0272,Data Scientist,Amazon,Pune,Data Scientist,Entry Level,Hybrid,16/06/2026,Machine Learning,6.6
+J0273,Data Engineer,Deloitte,Hyderabad,Data Engineer,Mid Level,Full-time,10/01/2026,Python,12.8
+J0274,BI Analyst,KPMG,Hyderabad,BI Analyst,Mid Level,Remote,16/03/2026,Tableau,12.3
+J0275,Data Analyst,KPMG,Chennai,Data Analyst,Senior Level,Full-time,14/06/2026,Excel,15
+J0276,BI Analyst,Capgemini,Gurugram,BI Analyst,Entry Level,Full-time,11/02/2026,SQL,7.2
+J0277,Data Scientist,Microsoft,Bengaluru,Data Scientist,Entry Level,Full-time,22/06/2026,SQL,7.3
+J0278,Business Analyst,EY,Noida,Business Analyst,Junior,Full-time,13/04/2026,Jira,8.5
+J0279,Business Analyst,Cognizant,Gurugram,Business Analyst,Senior Level,Full-time,09/04/2026,SQL,13.7
+J0280,Data Scientist,Tech Mahindra,Pune,Data Scientist,Mid Level,Full-time,17/06/2026,Machine Learning,10.2
+J0281,Business Analyst,IBM,Chennai,Business Analyst,Entry Level,Full-time,09/05/2026,Excel,8
+J0282,Data Scientist,Cognizant,Pune,Data Scientist,Junior,Full-time,04/02/2026,Python,7.7
+J0283,BI Analyst,Deloitte,Delhi,BI Analyst,Mid Level,Remote,13/07/2026,DAX,11
+J0284,Business Analyst,HCLTech,Chennai,Business Analyst,Junior,Hybrid,20/01/2026,SQL,9.5
+J0285,Data Analyst,Tech Mahindra,Mumbai,Data Analyst,Junior,Full-time,07/08/2026,Python,7.9
+J0286,Data Analyst,TCS,Gurugram,Data Analyst,Mid Level,Full-time,15/01/2026,SQL,10.6
+J0287,Data Engineer,Tech Mahindra,Gurugram,Data Engineer,Entry Level,Full-time,26/07/2026,ETL,5.5
+J0288,Data Analyst,EY,Pune,Data Analyst,Entry Level,Full-time,19/01/2026,Power BI,4.5
+J0289,Data Scientist,KPMG,Bengaluru,Data Scientist,Mid Level,Remote,01/05/2026,Python,8.9
+J0290,BI Analyst,Genpact,Hyderabad,BI Analyst,Junior,Hybrid,18/04/2026,SQL,7.3
+J0291,BI Analyst,Deloitte,Noida,BI Analyst,Entry Level,Remote,12/08/2026,Tableau,6.5
+J0292,Data Scientist,HCLTech,Hyderabad,Data Scientist,Junior,Full-time,27/02/2026,Python,9.1
+J0293,Data Analyst,Amazon,Gurugram,Data Analyst,Mid Level,Full-time,08/04/2026,Excel,12.1
+J0294,Business Analyst,Wipro,Delhi,Business Analyst,Entry Level,Remote,05/07/2026,Tableau,7.4
+J0295,Data Analyst,Accenture,Bengaluru,Data Analyst,Entry Level,Full-time,09/01/2026,Power BI,6.1
+J0296,Data Analyst,Deloitte,Bengaluru,Data Analyst,Junior,Full-time,13/07/2026,SQL,9.3
+J0297,Data Analyst,Accenture,Pune,Data Analyst,Mid Level,Hybrid,23/03/2026,SQL,11.1
+J0298,Data Scientist,KPMG,Pune,Data Scientist,Entry Level,Hybrid,26/02/2026,SQL,6
+J0299,Data Scientist,Amazon,Hyderabad,Data Scientist,Mid Level,Full-time,13/01/2026,Python,12.7
+J0300,BI Analyst,Microsoft,Delhi,BI Analyst,Junior,Full-time,07/04/2026,DAX,6.5
+J0301,Data Engineer,EY,Mumbai,Data Engineer,Entry Level,Remote,06/02/2026,ETL,7.5
+J0302,Data Analyst,Deloitte,Noida,Data Analyst,Junior,Full-time,04/03/2026,Tableau,6.8
+J0303,Data Scientist,EY,Gurugram,Data Scientist,Junior,Full-time,01/08/2026,Python,6.6
+J0304,Data Scientist,EY,Bengaluru,Data Scientist,Entry Level,Hybrid,31/05/2026,Pandas,7.2
+J0305,Data Engineer,Accenture,Gurugram,Data Engineer,Mid Level,Full-time,04/01/2026,SQL,9.6
+J0306,Business Analyst,KPMG,Gurugram,Business Analyst,Entry Level,Hybrid,22/02/2026,Excel,5.9
+J0307,Business Analyst,Genpact,Delhi,Business Analyst,Entry Level,Full-time,16/06/2026,Jira,5.7
+J0308,Data Scientist,IBM,Gurugram,Data Scientist,Entry Level,Remote,01/05/2026,Machine Learning,7.3
+J0309,Data Scientist,Cognizant,Delhi,Data Scientist,Junior,Full-time,26/02/2026,SQL,8.8
+J0310,Data Analyst,Capgemini,Noida,Data Analyst,Entry Level,Full-time,08/04/2026,Excel,6.6
+J0311,Business Analyst,Capgemini,Delhi,Business Analyst,Mid Level,Full-time,05/07/2026,Tableau,11.4
+J0312,BI Analyst,Microsoft,Hyderabad,BI Analyst,Mid Level,Full-time,04/07/2026,Tableau,11
+J0313,Business Analyst,HCLTech,Bengaluru,Business Analyst,Entry Level,Hybrid,29/07/2026,Jira,7
+J0314,Data Analyst,EY,Hyderabad,Data Analyst,Junior,Full-time,08/02/2026,Power BI,5.8
+J0315,Data Engineer,Infosys,Delhi,Data Engineer,Junior,Hybrid,07/06/2026,ETL,9.5
+J0316,BI Analyst,HCLTech,Bengaluru,BI Analyst,Junior,Full-time,16/05/2026,Power BI,8.7
+J0317,Data Engineer,HCLTech,Bengaluru,Data Engineer,Mid Level,Hybrid,26/07/2026,AWS,12.6
+J0318,Business Analyst,HCLTech,Chennai,Business Analyst,Entry Level,Full-time,15/05/2026,Excel,5.3
+J0319,Data Scientist,TCS,Noida,Data Scientist,Junior,Full-time,25/05/2026,Machine Learning,6.8
+J0320,Business Analyst,Amazon,Chennai,Business Analyst,Senior Level,Hybrid,09/01/2026,Power BI,13.2
+J0321,BI Analyst,Infosys,Gurugram,BI Analyst,Junior,Hybrid,22/01/2026,Tableau,7.8
+J0322,BI Analyst,KPMG,Chennai,BI Analyst,Junior,Full-time,24/02/2026,Excel,9.4
+J0323,Data Engineer,Infosys,Pune,Data Engineer,Senior Level,Hybrid,13/03/2026,ETL,16.4
+J0324,Data Engineer,KPMG,Hyderabad,Data Engineer,Mid Level,Full-time,23/02/2026,Python,11.1
+J0325,BI Analyst,Wipro,Pune,BI Analyst,Junior,Full-time,06/08/2026,Power BI,7.4
+J0326,Data Engineer,Genpact,Noida,Data Engineer,Mid Level,Hybrid,26/06/2026,AWS,11.7
+J0327,Data Engineer,TCS,Bengaluru,Data Engineer,Junior,Hybrid,29/03/2026,AWS,8.2
+J0328,Data Engineer,Genpact,Noida,Data Engineer,Entry Level,Hybrid,20/07/2026,Spark,8.3
+J0329,BI Analyst,HCLTech,Delhi,BI Analyst,Senior Level,Full-time,24/06/2026,SQL,15.1
+J0330,BI Analyst,Genpact,Pune,BI Analyst,Entry Level,Full-time,10/03/2026,Power BI,4.9
+J0331,Business Analyst,Cognizant,Delhi,Business Analyst,Entry Level,Full-time,20/03/2026,Tableau,6.1
+J0332,Data Scientist,TCS,Hyderabad,Data Scientist,Entry Level,Full-time,23/05/2026,Python,6.3
+J0333,Data Analyst,Cognizant,Chennai,Data Analyst,Junior,Full-time,20/07/2026,Python,7.1
+J0334,BI Analyst,Deloitte,Pune,BI Analyst,Junior,Full-time,19/08/2026,Power BI,8
+J0335,Business Analyst,Amazon,Hyderabad,Business Analyst,Junior,Full-time,19/03/2026,Jira,6.9
+J0336,Business Analyst,Deloitte,Hyderabad,Business Analyst,Entry Level,Full-time,20/07/2026,Excel,4.6
+J0337,Data Scientist,Tech Mahindra,Gurugram,Data Scientist,Junior,Full-time,04/02/2026,SQL,7
+J0338,BI Analyst,Genpact,Noida,BI Analyst,Mid Level,Full-time,21/04/2026,Excel,12.1
+J0339,Data Engineer,Cognizant,Pune,Data Engineer,Junior,Hybrid,03/05/2026,SQL,7.1
+J0340,BI Analyst,Microsoft,Pune,BI Analyst,Mid Level,Full-time,28/05/2026,Excel,11.9
+J0341,Data Scientist,EY,Pune,Data Scientist,Mid Level,Full-time,25/05/2026,Pandas,9.6
+J0342,Data Engineer,Microsoft,Bengaluru,Data Engineer,Junior,Hybrid,23/04/2026,SQL,9
+J0343,Data Analyst,Wipro,Gurugram,Data Analyst,Junior,Full-time,18/06/2026,Power BI,6.4
+J0344,BI Analyst,IBM,Chennai,BI Analyst,Senior Level,Full-time,13/04/2026,Tableau,14.9
+J0345,BI Analyst,Genpact,Bengaluru,BI Analyst,Senior Level,Hybrid,27/07/2026,DAX,14.9
+J0346,Data Analyst,Amazon,Mumbai,Data Analyst,Mid Level,Full-time,06/06/2026,Python,9
+J0347,BI Analyst,TCS,Noida,BI Analyst,Entry Level,Full-time,11/05/2026,Excel,7.3
+J0348,Data Engineer,IBM,Mumbai,Data Engineer,Junior,Full-time,23/06/2026,Spark,8.2
+J0349,Data Engineer,Infosys,Delhi,Data Engineer,Junior,Full-time,22/01/2026,SQL,6.3
+J0350,Business Analyst,Cognizant,Pune,Business Analyst,Junior,Full-time,04/05/2026,Power BI,7.2
+J0351,Data Analyst,Cognizant,Gurugram,Data Analyst,Entry Level,Full-time,01/07/2026,Power BI,4.8
+J0352,Data Scientist,KPMG,Hyderabad,Data Scientist,Senior Level,Full-time,14/02/2026,Python,15
+J0353,Data Scientist,IBM,Noida,Data Scientist,Entry Level,Full-time,17/02/2026,Statistics,5
+J0354,BI Analyst,Microsoft,Bengaluru,BI Analyst,Junior,Full-time,01/06/2026,Tableau,7.5
+J0355,Data Analyst,Capgemini,Mumbai,Data Analyst,Mid Level,Hybrid,17/01/2026,SQL,11.1
+J0356,Data Engineer,Cognizant,Delhi,Data Engineer,Entry Level,Full-time,21/06/2026,SQL,7.8
+J0357,Data Engineer,Tech Mahindra,Noida,Data Engineer,Junior,Full-time,01/04/2026,AWS,9.2
+J0358,Data Engineer,KPMG,Pune,Data Engineer,Junior,Full-time,04/02/2026,SQL,7.1
+J0359,Business Analyst,Wipro,Chennai,Business Analyst,Junior,Full-time,10/04/2026,Power BI,7.5
+J0360,Business Analyst,Deloitte,Noida,Business Analyst,Entry Level,Hybrid,27/06/2026,Jira,8
+J0361,Business Analyst,IBM,Hyderabad,Business Analyst,Entry Level,Full-time,04/08/2026,Jira,6.1
+J0362,Data Analyst,IBM,Bengaluru,Data Analyst,Entry Level,Hybrid,24/05/2026,Excel,6.3
+J0363,BI Analyst,Deloitte,Gurugram,BI Analyst,Mid Level,Full-time,12/02/2026,Tableau,9.1
+J0364,Data Analyst,Infosys,Pune,Data Analyst,Entry Level,Full-time,13/02/2026,SQL,7.4
+J0365,Data Engineer,Tech Mahindra,Chennai,Data Engineer,Entry Level,Hybrid,30/07/2026,ETL,8.3
+J0366,Data Engineer,HCLTech,Gurugram,Data Engineer,Entry Level,Full-time,08/07/2026,Python,7.6
+J0367,Business Analyst,IBM,Bengaluru,Business Analyst,Entry Level,Remote,23/01/2026,Power BI,6.1
+J0368,Data Analyst,Genpact,Mumbai,Data Analyst,Mid Level,Hybrid,09/08/2026,SQL,11.6
+J0369,BI Analyst,Genpact,Hyderabad,BI Analyst,Entry Level,Full-time,16/01/2026,SQL,6.6
+J0370,Data Engineer,Cognizant,Hyderabad,Data Engineer,Senior Level,Full-time,27/05/2026,AWS,13.9
+J0371,Data Engineer,Genpact,Hyderabad,Data Engineer,Mid Level,Remote,12/03/2026,Python,12.3
+J0372,Business Analyst,Wipro,Mumbai,Business Analyst,Mid Level,Hybrid,14/07/2026,SQL,12.2
+J0373,BI Analyst,Tech Mahindra,Hyderabad,BI Analyst,Junior,Hybrid,07/04/2026,Tableau,7.6
+J0374,Data Analyst,Microsoft,Pune,Data Analyst,Senior Level,Full-time,05/05/2026,Power BI,14.1
+J0375,Data Analyst,Amazon,Gurugram,Data Analyst,Mid Level,Full-time,17/01/2026,Python,12
+J0376,BI Analyst,EY,Noida,BI Analyst,Entry Level,Full-time,01/08/2026,SQL,5.4
+J0377,Data Engineer,Tech Mahindra,Hyderabad,Data Engineer,Mid Level,Hybrid,17/08/2026,Spark,11.5
+J0378,Data Analyst,Amazon,Chennai,Data Analyst,Mid Level,Full-time,01/02/2026,Python,12.5
+J0379,Business Analyst,Infosys,Gurugram,Business Analyst,Senior Level,Full-time,26/06/2026,Tableau,16.4
+J0380,Data Scientist,TCS,Pune,Data Scientist,Mid Level,Full-time,06/04/2026,SQL,11.5
+J0381,Business Analyst,Amazon,Noida,Business Analyst,Entry Level,Hybrid,01/03/2026,Excel,6
+J0382,Data Analyst,Accenture,Bengaluru,Data Analyst,Junior,Full-time,27/02/2026,Python,7.9
+J0383,BI Analyst,Microsoft,Bengaluru,BI Analyst,Entry Level,Full-time,09/08/2026,Power BI,6
+J0384,Business Analyst,Accenture,Chennai,Business Analyst,Junior,Hybrid,27/01/2026,Tableau,6.2
+J0385,Data Scientist,Deloitte,Hyderabad,Data Scientist,Mid Level,Hybrid,04/02/2026,Machine Learning,11.4
+J0386,Business Analyst,Tech Mahindra,Bengaluru,Business Analyst,Mid Level,Full-time,04/07/2026,Excel,9.7
+J0387,Business Analyst,EY,Gurugram,Business Analyst,Entry Level,Remote,05/02/2026,Tableau,7.3
+J0388,Data Engineer,Deloitte,Delhi,Data Engineer,Entry Level,Full-time,12/03/2026,ETL,6.9
+J0389,Business Analyst,Genpact,Pune,Business Analyst,Senior Level,Full-time,05/08/2026,Jira,15.4
+J0390,Data Scientist,Microsoft,Mumbai,Data Scientist,Junior,Hybrid,20/07/2026,SQL,9.4
+J0391,Business Analyst,TCS,Noida,Business Analyst,Entry Level,Hybrid,19/01/2026,Tableau,6.4
+J0392,Data Analyst,Wipro,Delhi,Data Analyst,Junior,Hybrid,18/04/2026,Excel,7.3
+J0393,Business Analyst,Infosys,Chennai,Business Analyst,Junior,Full-time,25/02/2026,Tableau,6
+J0394,Data Analyst,Amazon,Pune,Data Analyst,Mid Level,Hybrid,19/04/2026,Power BI,11.6
+J0395,Data Analyst,Capgemini,Hyderabad,Data Analyst,Entry Level,Full-time,22/02/2026,Tableau,8.2
+J0396,Business Analyst,Deloitte,Delhi,Business Analyst,Junior,Hybrid,16/06/2026,Jira,8.5
+J0397,Data Analyst,Microsoft,Noida,Data Analyst,Senior Level,Full-time,04/03/2026,Excel,13.1
+J0398,BI Analyst,Tech Mahindra,Gurugram,BI Analyst,Junior,Full-time,09/07/2026,Power BI,8.4
+J0399,Business Analyst,Microsoft,Bengaluru,Business Analyst,Entry Level,Full-time,08/05/2026,Excel,8.1
+J0400,Data Engineer,Wipro,Pune,Data Engineer,Junior,Hybrid,12/08/2026,Spark,6.9
+J0401,Data Analyst,Genpact,Delhi,Data Analyst,Junior,Full-time,09/03/2026,Python,8.6
+J0402,Data Engineer,IBM,Gurugram,Data Engineer,Junior,Full-time,08/08/2026,Python,8.1
+J0403,Data Scientist,Genpact,Pune,Data Scientist,Entry Level,Full-time,05/07/2026,SQL,4.8
+J0404,Data Engineer,EY,Bengaluru,Data Engineer,Mid Level,Full-time,01/05/2026,Python,10.3
+J0405,Business Analyst,HCLTech,Bengaluru,Business Analyst,Mid Level,Hybrid,17/06/2026,SQL,10.5
+J0406,Data Scientist,KPMG,Noida,Data Scientist,Mid Level,Full-time,20/01/2026,SQL,11.1
+J0407,Data Analyst,Wipro,Bengaluru,Data Analyst,Entry Level,Full-time,12/01/2026,Tableau,8.1
+J0408,Data Analyst,Genpact,Pune,Data Analyst,Mid Level,Full-time,22/05/2026,Power BI,10.6
+J0409,Data Scientist,Tech Mahindra,Pune,Data Scientist,Mid Level,Hybrid,04/03/2026,SQL,10.7
+J0410,Data Engineer,Microsoft,Mumbai,Data Engineer,Senior Level,Hybrid,04/03/2026,ETL,13.4
+J0411,BI Analyst,HCLTech,Mumbai,BI Analyst,Entry Level,Hybrid,13/08/2026,Power BI,4.3
+J0412,Data Scientist,EY,Noida,Data Scientist,Mid Level,Full-time,22/02/2026,Python,10.9
+J0413,Business Analyst,Infosys,Gurugram,Business Analyst,Senior Level,Full-time,13/03/2026,Tableau,13.2
+J0414,Business Analyst,Microsoft,Noida,Business Analyst,Mid Level,Full-time,11/07/2026,Jira,9.1
+J0415,Data Analyst,Amazon,Hyderabad,Data Analyst,Mid Level,Full-time,26/05/2026,Tableau,9
+J0416,Business Analyst,Capgemini,Pune,Business Analyst,Mid Level,Remote,11/04/2026,SQL,11.6
+J0417,Data Scientist,Capgemini,Gurugram,Data Scientist,Entry Level,Remote,04/02/2026,Machine Learning,7.4
+J0418,Data Engineer,TCS,Hyderabad,Data Engineer,Entry Level,Full-time,15/04/2026,Python,4.8
+J0419,Data Scientist,Capgemini,Gurugram,Data Scientist,Junior,Remote,24/01/2026,SQL,6.4
+J0420,Data Scientist,Accenture,Bengaluru,Data Scientist,Mid Level,Full-time,24/01/2026,Statistics,11.6
+J0421,Data Scientist,Amazon,Bengaluru,Data Scientist,Entry Level,Hybrid,14/02/2026,Pandas,4.4
+J0422,BI Analyst,TCS,Mumbai,BI Analyst,Junior,Hybrid,05/02/2026,Tableau,6.3
+J0423,Data Analyst,Accenture,Hyderabad,Data Analyst,Mid Level,Full-time,11/06/2026,SQL,12.6
+J0424,Data Analyst,KPMG,Pune,Data Analyst,Mid Level,Full-time,17/01/2026,Tableau,9.6
+J0425,BI Analyst,KPMG,Chennai,BI Analyst,Mid Level,Hybrid,01/02/2026,SQL,9
+J0426,BI Analyst,KPMG,Hyderabad,BI Analyst,Junior,Hybrid,12/04/2026,Power BI,7.8
+J0427,BI Analyst,Cognizant,Hyderabad,BI Analyst,Entry Level,Full-time,13/03/2026,Tableau,6.1
+J0428,Business Analyst,Amazon,Mumbai,Business Analyst,Entry Level,Full-time,21/05/2026,Excel,6.2
+J0429,Data Analyst,Wipro,Noida,Data Analyst,Junior,Hybrid,24/07/2026,Excel,7.9
+J0430,Data Engineer,Genpact,Noida,Data Engineer,Mid Level,Full-time,20/07/2026,Python,10.7
+J0431,Data Engineer,Deloitte,Delhi,Data Engineer,Entry Level,Full-time,02/06/2026,Spark,5.2
+J0432,Data Scientist,HCLTech,Gurugram,Data Scientist,Junior,Full-time,01/03/2026,Python,9.7
+J0433,Data Analyst,Capgemini,Mumbai,Data Analyst,Junior,Hybrid,08/07/2026,SQL,6
+J0434,Business Analyst,Cognizant,Noida,Business Analyst,Senior Level,Remote,14/02/2026,Jira,13.5
+J0435,Data Engineer,KPMG,Delhi,Data Engineer,Junior,Hybrid,01/04/2026,AWS,9.6
+J0436,Data Engineer,EY,Mumbai,Data Engineer,Senior Level,Remote,07/05/2026,SQL,15
+J0437,Business Analyst,TCS,Bengaluru,Business Analyst,Entry Level,Hybrid,06/01/2026,Tableau,6.4
+J0438,Data Analyst,Genpact,Mumbai,Data Analyst,Entry Level,Hybrid,25/07/2026,Excel,7.7
+J0439,Data Scientist,Wipro,Bengaluru,Data Scientist,Junior,Remote,18/07/2026,Python,6.2
+J0440,Data Engineer,Cognizant,Chennai,Data Engineer,Mid Level,Hybrid,31/05/2026,AWS,9.2
+J0441,Data Scientist,Wipro,Hyderabad,Data Scientist,Mid Level,Full-time,13/06/2026,Machine Learning,12.6
+J0442,Data Scientist,Accenture,Delhi,Data Scientist,Mid Level,Hybrid,07/04/2026,SQL,10
+J0443,Data Scientist,Microsoft,Hyderabad,Data Scientist,Entry Level,Hybrid,27/05/2026,SQL,5.9
+J0444,Data Engineer,Tech Mahindra,Hyderabad,Data Engineer,Entry Level,Hybrid,06/06/2026,Python,5.2
+J0445,Data Engineer,Wipro,Gurugram,Data Engineer,Entry Level,Full-time,30/03/2026,Python,8.2
+J0446,Business Analyst,IBM,Delhi,Business Analyst,Entry Level,Full-time,27/06/2026,Excel,4.6
+J0447,Data Scientist,Infosys,Bengaluru,Data Scientist,Junior,Hybrid,12/02/2026,Python,9.3
+J0448,BI Analyst,HCLTech,Delhi,BI Analyst,Junior,Hybrid,21/07/2026,Tableau,9.3
+J0449,Business Analyst,TCS,Gurugram,Business Analyst,Mid Level,Full-time,06/01/2026,SQL,10.1
+J0450,Data Analyst,Wipro,Delhi,Data Analyst,Mid Level,Full-time,20/01/2026,Python,11
+J0451,Data Analyst,Microsoft,Gurugram,Data Analyst,Entry Level,Remote,12/02/2026,Excel,6.7
+J0452,BI Analyst,TCS,Bengaluru,BI Analyst,Entry Level,Remote,15/04/2026,SQL,7.1
+J0453,Data Engineer,Capgemini,Pune,Data Engineer,Entry Level,Full-time,27/05/2026,AWS,6.5
+J0454,BI Analyst,Cognizant,Bengaluru,BI Analyst,Entry Level,Full-time,30/07/2026,SQL,6.9
+J0455,Data Engineer,TCS,Mumbai,Data Engineer,Entry Level,Full-time,16/03/2026,ETL,8.2
+J0456,BI Analyst,Genpact,Pune,BI Analyst,Junior,Full-time,19/06/2026,Power BI,6.9
+J0457,Data Engineer,Cognizant,Hyderabad,Data Engineer,Mid Level,Full-time,25/04/2026,ETL,9
+J0458,BI Analyst,Accenture,Pune,BI Analyst,Mid Level,Full-time,08/02/2026,Tableau,11.8
+J0459,Data Analyst,Genpact,Delhi,Data Analyst,Junior,Remote,31/05/2026,Python,6.7
+J0460,Data Analyst,HCLTech,Noida,Data Analyst,Mid Level,Remote,27/05/2026,Power BI,12.3
+J0461,BI Analyst,Deloitte,Chennai,BI Analyst,Senior Level,Hybrid,09/05/2026,Excel,15.1
+J0462,Data Engineer,TCS,Hyderabad,Data Engineer,Senior Level,Full-time,12/02/2026,Spark,16.7
+J0463,Business Analyst,Deloitte,Bengaluru,Business Analyst,Entry Level,Hybrid,21/02/2026,SQL,8.3
+J0464,Business Analyst,Cognizant,Pune,Business Analyst,Senior Level,Remote,18/01/2026,Jira,13.1
+J0465,Data Engineer,EY,Delhi,Data Engineer,Entry Level,Full-time,12/08/2026,ETL,4.3
+J0466,Data Engineer,TCS,Noida,Data Engineer,Junior,Full-time,31/05/2026,Spark,8.1
+J0467,Data Analyst,Genpact,Chennai,Data Analyst,Entry Level,Full-time,30/03/2026,Python,7.8
+J0468,Data Scientist,Tech Mahindra,Gurugram,Data Scientist,Junior,Full-time,12/03/2026,Pandas,7.4
+J0469,Data Engineer,Infosys,Noida,Data Engineer,Junior,Remote,26/06/2026,Spark,6.8
+J0470,BI Analyst,Infosys,Delhi,BI Analyst,Entry Level,Hybrid,21/03/2026,Excel,5.4
+J0471,BI Analyst,Wipro,Mumbai,BI Analyst,Entry Level,Hybrid,18/07/2026,Power BI,7.6
+J0472,Data Scientist,Accenture,Chennai,Data Scientist,Junior,Remote,15/04/2026,Pandas,8.8
+J0473,Data Engineer,HCLTech,Bengaluru,Data Engineer,Mid Level,Full-time,01/07/2026,AWS,10.8
+J0474,Business Analyst,Wipro,Bengaluru,Business Analyst,Entry Level,Hybrid,03/08/2026,Jira,4.5
+J0475,Data Analyst,KPMG,Bengaluru,Data Analyst,Junior,Full-time,05/04/2026,Power BI,9.1
+J0476,Data Engineer,Amazon,Chennai,Data Engineer,Entry Level,Full-time,02/06/2026,ETL,6.1
+J0477,BI Analyst,Cognizant,Delhi,BI Analyst,Entry Level,Remote,11/07/2026,DAX,7.6
+J0478,Data Analyst,Deloitte,Bengaluru,Data Analyst,Entry Level,Remote,19/07/2026,Excel,8.2
+J0479,Business Analyst,Capgemini,Mumbai,Business Analyst,Mid Level,Full-time,10/08/2026,SQL,11.9
+J0480,Data Analyst,Amazon,Hyderabad,Data Analyst,Entry Level,Hybrid,27/02/2026,Power BI,5.3
+J0481,Data Scientist,KPMG,Noida,Data Scientist,Junior,Full-time,06/03/2026,Machine Learning,6.7
+J0482,Data Scientist,Tech Mahindra,Noida,Data Scientist,Entry Level,Full-time,19/06/2026,Statistics,8.2
+J0483,Data Scientist,Capgemini,Pune,Data Scientist,Mid Level,Full-time,28/03/2026,Statistics,12.8
+J0484,Data Scientist,Amazon,Pune,Data Scientist,Mid Level,Remote,18/03/2026,Machine Learning,9.6
+J0485,Data Engineer,Genpact,Bengaluru,Data Engineer,Mid Level,Hybrid,14/04/2026,SQL,11.4
+J0486,Business Analyst,Capgemini,Gurugram,Business Analyst,Entry Level,Full-time,10/04/2026,Excel,7.2
+J0487,Data Engineer,Cognizant,Mumbai,Data Engineer,Mid Level,Full-time,17/05/2026,Spark,11.4
+J0488,BI Analyst,EY,Pune,BI Analyst,Entry Level,Hybrid,23/05/2026,Excel,5
+J0489,Data Analyst,Microsoft,Hyderabad,Data Analyst,Entry Level,Hybrid,15/07/2026,Power BI,8
+J0490,Data Scientist,Cognizant,Mumbai,Data Scientist,Entry Level,Remote,18/04/2026,Python,7.5
+J0491,Data Scientist,Tech Mahindra,Pune,Data Scientist,Entry Level,Remote,01/05/2026,Machine Learning,4.5
+J0492,Data Engineer,IBM,Chennai,Data Engineer,Mid Level,Full-time,11/08/2026,Spark,11.5
+J0493,Data Engineer,Infosys,Noida,Data Engineer,Mid Level,Full-time,21/02/2026,AWS,10.2
+J0494,Data Engineer,Cognizant,Hyderabad,Data Engineer,Mid Level,Full-time,21/01/2026,ETL,10.8
+J0495,Business Analyst,Infosys,Bengaluru,Business Analyst,Junior,Full-time,18/07/2026,Power BI,6.5
+J0496,Business Analyst,Wipro,Chennai,Business Analyst,Junior,Hybrid,14/04/2026,Tableau,7.5
+J0497,BI Analyst,Infosys,Bengaluru,BI Analyst,Junior,Hybrid,04/01/2026,Tableau,9.4
+J0498,Data Engineer,Amazon,Bengaluru,Data Engineer,Entry Level,Hybrid,27/02/2026,SQL,7.1
+J0499,Data Scientist,TCS,Hyderabad,Data Scientist,Junior,Full-time,12/02/2026,Machine Learning,6.1
+J0500,Data Analyst,IBM,Pune,Data Analyst,Mid Level,Full-time,28/03/2026,Excel,10.5
